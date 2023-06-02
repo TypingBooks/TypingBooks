@@ -19,5 +19,3 @@ This introduction is copy/pasted from the old website that can be viewed at the 
 # License
 
 MIT
-
-

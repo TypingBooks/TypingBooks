@@ -1,0 +1,3 @@
+# Anonymized Final Database
+
+This was the last backup of the database before taking the website offline. It has been anonymized, so that all email addresses and password hashes were removed. User registration dates and activity dates were removed. Display names were all changed to be the same. There's only data intended to make the website as functional as it was online before being taken offline. 
