@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Ingia',
+  'email' => 'Barua pepe',
+  'password' => 'Nywila',
+  'remember' => 'Nikumbuke',
+  'forgot' => 'Umesahau nenosiri yako?',
+  'register2' => 'Huna akaunti? Jiandikishe',
+  'username' => 'Jina la mtumiaji',
+  'confirm_password' => 'Thibitisha Nenosiri',
+  'register1' => 'Jiandikishe',
+  'reset' => 'Rudisha Nenosiri',
+  'reset_link' => 'Tuma Kiunga cha Rudisha Nenosiri',
+  'verify' => 'Thibitisha Anwani yako ya Barua pepe',
+  'verification_link' => 'Kiunga cha uthibitisho mpya kimetumwa kwa anwani yako ya barua pepe.',
+  'before' => 'Kabla ya kuendelea, tafadhali angalia barua pepe yako kwa kiunganisho cha uthibitisho.',
+  'no_receive' => 'Ikiwa haukupokea barua pepe',
+  'another_one' => 'bonyeza hapa kuomba nyingine',
+  'confirm_password2' => 'Tafadhali thibitisha nenosiri lako kabla ya kuendelea.',
+);

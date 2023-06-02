@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Daxil ol',
+  'email' => 'Elektron poçt ünvanı',
+  'password' => 'Şifrə',
+  'remember' => 'Məni xatırla',
+  'forgot' => 'Şifrəni unutmusan?',
+  'register2' => 'Hesabınız yoxdur? Qeydiyyatdan keçin',
+  'username' => 'İstifadəçi adı',
+  'confirm_password' => 'Parolu təsdiqləyin',
+  'register1' => 'Qeydiyyatdan keçin',
+  'reset' => 'Parolu sıfırlamak',
+  'reset_link' => 'Şifrə sıfırlama linkini göndərin',
+  'verify' => 'E-poçt ünvanınızı doğrulayın',
+  'verification_link' => 'E-poçt ünvanınıza təzə bir təsdiq bağlantısı göndərildi.',
+  'before' => 'Davam etməzdən əvvəl e-poçtunuzu doğrulama linki üçün yoxlayın.',
+  'no_receive' => 'E-poçt almamısınızsa',
+  'another_one' => 'başqasını tələb etmək üçün buraya vurun',
+  'confirm_password2' => 'Davam etmədən əvvəl parolunuzu təsdiqləyin.',
+);

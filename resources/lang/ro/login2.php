@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Autentificare',
+  'email' => 'Adresa de email',
+  'password' => 'Parola',
+  'remember' => 'Amintește-ți de mine',
+  'forgot' => 'Ti-ai uitat parola?',
+  'register2' => 'Nu aveți cont? Inregistreaza-te',
+  'username' => 'Nume de utilizator',
+  'confirm_password' => 'Confirmă parola',
+  'register1' => 'Inregistreaza-te',
+  'reset' => 'Reseteaza parola',
+  'reset_link' => 'Trimiteți linkul de resetare a parolei',
+  'verify' => 'Verifică-ți adresa de email',
+  'verification_link' => 'A fost trimis un nou link de verificare la adresa dvs. de e-mail.',
+  'before' => 'Înainte de a continua, verificați e-mailul dvs. pentru un link de verificare.',
+  'no_receive' => 'Dacă nu ați primit e-mailul',
+  'another_one' => 'click aici pentru a solicita un altul',
+  'confirm_password2' => 'Vă rugăm să confirmați parola înainte de a continua.',
+);

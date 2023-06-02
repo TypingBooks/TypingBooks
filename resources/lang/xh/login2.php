@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Ngema',
+  'email' => 'Idilesi yemeyile',
+  'password' => 'Inombolo yokuvula',
+  'remember' => 'Ndikhumbule',
+  'forgot' => 'Ingaba uyilibele iphasiwedi yakho?',
+  'register2' => 'Awunayo iakhawunti? Bhalisa',
+  'username' => 'Igama lomsebenzisi',
+  'confirm_password' => 'Ngqina iphasiwedi',
+  'register1' => 'Bhalisa',
+  'reset' => 'Buyisela kwakhona i-password',
+  'reset_link' => 'Thumela iphasiwedi yokuseta kwakhona indawo',
+  'verify' => 'Qinisekisa idilesi ye-imeyile yakho',
+  'verification_link' => 'Ikhonkco elitsha lokuqinisekisa lithunyelwe kwidilesi ye-imeyile.',
+  'before' => 'Ngaphambi kokuba uqhubeke, nceda jonga i-imeyile yakho ukuze ikhangele isiqinisekiso.',
+  'no_receive' => 'Ukuba awuyifumana i-imeyile',
+  'another_one' => 'cofa apha ucele enye',
+  'confirm_password2' => 'Nceda uqinisekise ipassword yakho ngaphambi kokuba uqhubeke.',
+);

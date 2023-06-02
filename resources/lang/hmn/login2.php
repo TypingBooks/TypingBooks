@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'ID nkag mus',
+  'email' => 'E-Xa Chaw Nyob',
+  'password' => 'Lo lus zais',
+  'remember' => 'Nco Kuv Me Me',
+  'forgot' => 'Tsis nco qab koj lo lus zais?',
+  'register2' => 'Tsis muaj ib tug account? Sau npe',
+  'username' => 'Lub npe neeg siv',
+  'confirm_password' => 'Paub Koj Tus Password',
+  'register1' => 'Sau npe',
+  'reset' => 'Rov qab qhib Password',
+  'reset_link' => 'Xa Tus password Rov Pib Txuas',
+  'verify' => 'Xyuas koj Chaw Nyob Email',
+  'verification_link' => 'Daim ntawv txheeb xyuas qhov tseeb tshiab tau muab xa mus rau koj tus email chaw nyob.',
+  'before' => 'Ua ntej pib ua, thov tshawb koj tus email rau kab ntawv pov thawj txuas.',
+  'no_receive' => 'Yog tias koj tsis tau txais email',
+  'another_one' => 'nyem qhov no mus thov lwm',
+  'confirm_password2' => 'Thov paub meej tias koj lo lus zais ua ntej txuas ntxiv.',
+);

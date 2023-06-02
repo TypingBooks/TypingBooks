@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => '로그인',
+  'email' => '이메일 주소',
+  'password' => '암호',
+  'remember' => '날 기억해',
+  'forgot' => '비밀번호를 잊어 버렸습니까?',
+  'register2' => '계정이 없습니까? 레지스터',
+  'username' => '사용자 이름',
+  'confirm_password' => '비밀번호 확인',
+  'register1' => '레지스터',
+  'reset' => '암호를 재설정',
+  'reset_link' => '비밀번호 재설정 링크 보내기',
+  'verify' => '이메일 주소를 확인',
+  'verification_link' => '새로운 확인 링크가 귀하의 이메일 주소로 전송되었습니다.',
+  'before' => '계속하기 전에 이메일에 확인 링크가 있는지 확인하십시오.',
+  'no_receive' => '이메일을받지 못한 경우',
+  'another_one' => '다른 요청하려면 여기를 클릭하십시오',
+  'confirm_password2' => '계속하기 전에 비밀번호를 확인하십시오.',
+);

@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Log a-steach',
+  'email' => 'Seòladh puist-d',
+  'password' => 'Facal-faire',
+  'remember' => 'Cuimhnich orm',
+  'forgot' => 'An do dhìochuimhnich thu am facal-faire agad?',
+  'register2' => 'Nach eil cunntas agad? Clàr',
+  'username' => 'Ainm-cleachdaidh',
+  'confirm_password' => 'Dearbh am facal-faire',
+  'register1' => 'Clàr',
+  'reset' => 'Ath-shuidheachadh facal-faire',
+  'reset_link' => 'Cuir ceangal ath-shuidheachadh facal-faire',
+  'verify' => 'Dearbhaich do sheòladh post-d',
+  'verification_link' => 'Chaidh ceangal dearbhaidh ùr a chuir chun t-seòladh post-d agad.',
+  'before' => 'Mus lean thu air adhart, thoir sùil air a ’phost-d agad airson ceangal dearbhaidh.',
+  'no_receive' => 'Mura d ’fhuair thu am post-d',
+  'another_one' => 'cliog an seo gus fear eile iarraidh',
+  'confirm_password2' => 'Feuch an dearbhaich thu am facal-faire agad mus lean thu air adhart.',
+);

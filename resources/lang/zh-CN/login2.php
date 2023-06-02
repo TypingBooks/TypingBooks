@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => '登录',
+  'email' => '电子邮件地址',
+  'password' => '密码',
+  'remember' => '记得我',
+  'forgot' => '忘记密码了吗？',
+  'register2' => '还没有帐号？寄存器',
+  'username' => '用户名',
+  'confirm_password' => '确认密码',
+  'register1' => '寄存器',
+  'reset' => '重设密码',
+  'reset_link' => '发送密码重置链接',
+  'verify' => '确认你的邮件地址',
+  'verification_link' => '新的验证链接已发送到您的电子邮件地址。',
+  'before' => '在继续之前，请检查您的电子邮件以获取验证链接。',
+  'no_receive' => '如果您没有收到电子邮件',
+  'another_one' => '点击此处请求其他',
+  'confirm_password2' => '请先确认您的密码，然后再继续。',
+);

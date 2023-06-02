@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Mewngofnodi',
+  'email' => 'Cyfeiriad ebost',
+  'password' => 'Cyfrinair',
+  'remember' => 'Cofiwch fi',
+  'forgot' => 'Wedi anghofio eich cyfrinair?',
+  'register2' => 'Peidiwch â chael cyfrif? Cofrestrwch',
+  'username' => 'Enw defnyddiwr',
+  'confirm_password' => 'Cadarnhau Cyfrinair',
+  'register1' => 'Cofrestrwch',
+  'reset' => 'Ailosod cyfrinair',
+  'reset_link' => 'Anfon Dolen Ailosod Cyfrinair',
+  'verify' => 'Gwirio Eich Cyfeiriad E-bost',
+  'verification_link' => 'Mae dolen ddilysu newydd wedi&#39;i hanfon i&#39;ch cyfeiriad e-bost.',
+  'before' => 'Cyn bwrw ymlaen, gwiriwch eich e-bost am ddolen wirio.',
+  'no_receive' => 'Os na wnaethoch chi dderbyn yr e-bost',
+  'another_one' => 'cliciwch yma i ofyn am un arall',
+  'confirm_password2' => 'Cadarnhewch eich cyfrinair cyn parhau.',
+);

@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Idħol',
+  'email' => 'Indirizz tal-E-Mail',
+  'password' => 'Password',
+  'remember' => 'Tiftakarni',
+  'forgot' => 'Insejt il-password?',
+  'register2' => 'M&#39;għandekx kont? Reġistru',
+  'username' => 'Username',
+  'confirm_password' => 'Ikkonferma il-Password',
+  'register1' => 'Reġistru',
+  'reset' => 'Irrisettja l-Password',
+  'reset_link' => 'Ibgħat Link Irrisettja Password',
+  'verify' => 'Ivverifika l-Indirizz tal-Email Tiegħek',
+  'verification_link' => 'Intbagħtet link ta ’verifika ġdida lill-indirizz elettroniku tiegħek.',
+  'before' => 'Qabel ma tkompli, jekk jogħġbok iċċekkja l-email tiegħek għal link ta &#39;verifika.',
+  'no_receive' => 'Jekk ma rċivejtx l-email',
+  'another_one' => 'ikklikkja hawn biex titlob ieħor',
+  'confirm_password2' => 'Jekk jogħġbok ikkonferma l-password tiegħek qabel ma tkompli.',
+);

@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'login',
+  'email' => 'Oratio E-Mail',
+  'password' => 'Password',
+  'remember' => 'memento mihi',
+  'forgot' => 'Forgot Your Password?',
+  'register2' => 'An non? actis mandare',
+  'username' => 'nomen usoris',
+  'confirm_password' => 'Adfirmare Password',
+  'register1' => 'actis mandare',
+  'reset' => 'Reset password',
+  'reset_link' => 'Send Password Reset Link',
+  'verify' => 'Quin vestri email oratio',
+  'verification_link' => 'A recens verificationem nexus missa est tibi inscriptio electronica inscriptio.',
+  'before' => 'Prius quaeso reprehendo vestri email pro confirmatione pagina.',
+  'no_receive' => 'Si non recepissent Email',
+  'another_one' => 'aliud postulet click here',
+  'confirm_password2' => 'Tua ignoro commodo jugis.',
+);

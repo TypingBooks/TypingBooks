@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => '登錄',
+  'email' => '電子郵件地址',
+  'password' => '密碼',
+  'remember' => '記得我',
+  'forgot' => '忘記密碼了嗎？',
+  'register2' => '還沒有帳號？寄存器',
+  'username' => '用戶名',
+  'confirm_password' => '確認密碼',
+  'register1' => '寄存器',
+  'reset' => '重設密碼',
+  'reset_link' => '發送密碼重置鏈接',
+  'verify' => '確認你的郵件地址',
+  'verification_link' => '新的驗證鏈接已發送到您的電子郵件地址。',
+  'before' => '在繼續之前，請檢查您的電子郵件以獲取驗證鏈接。',
+  'no_receive' => '如果您沒有收到電子郵件',
+  'another_one' => '點擊此處請求其他',
+  'confirm_password2' => '請先確認您的密碼，然後再繼續。',
+);

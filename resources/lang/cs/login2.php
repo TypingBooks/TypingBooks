@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Přihlásit se',
+  'email' => 'Emailová adresa',
+  'password' => 'Heslo',
+  'remember' => 'Zapamatuj si mě',
+  'forgot' => 'Zapomněli jste heslo?',
+  'register2' => 'Nemáte účet? Registrovat',
+  'username' => 'Uživatelské jméno',
+  'confirm_password' => 'Potvrďte heslo',
+  'register1' => 'Registrovat',
+  'reset' => 'Obnovit heslo',
+  'reset_link' => 'Odeslat odkaz na resetování hesla',
+  'verify' => 'Ověřte svou e-mailovou adresu',
+  'verification_link' => 'Na vaši e-mailovou adresu byl odeslán nový ověřovací odkaz.',
+  'before' => 'Než budete pokračovat, zkontrolujte prosím v e-mailu ověřovací odkaz.',
+  'no_receive' => 'Pokud jste e-mail neobdrželi',
+  'another_one' => 'klikněte sem a vyžádejte si další',
+  'confirm_password2' => 'Než budete pokračovat, potvrďte prosím své heslo.',
+);

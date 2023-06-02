@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Logáil isteach',
+  'email' => 'Seoladh ríomhphoist',
+  'password' => 'Pasfhocal',
+  'remember' => 'Cuimhnigh Mise',
+  'forgot' => 'Ar rinne tú dearmad ar do Phásfhocail?',
+  'register2' => 'Nach bhfuil cuntas agat? Cláraigh',
+  'username' => 'Ainm úsáideora',
+  'confirm_password' => 'Deimhnigh Pasfhocal',
+  'register1' => 'Cláraigh',
+  'reset' => 'Athshocraigh Pasfhocal',
+  'reset_link' => 'Seol Nasc Athshocraigh Pasfhocal',
+  'verify' => 'Fíoraigh Do sheoladh Ríomhphoist',
+  'verification_link' => 'Tá nasc fíoraithe úr seolta chuig do sheoladh ríomhphoist.',
+  'before' => 'Sula dtéann tú ar aghaidh, seiceáil do r-phost le haghaidh nasc fíoraithe.',
+  'no_receive' => 'Mura bhfuair tú an ríomhphost',
+  'another_one' => 'cliceáil anseo chun ceann eile a iarraidh',
+  'confirm_password2' => 'Deimhnigh do phasfhocal le do thoil sula leanfaidh tú ar aghaidh.',
+);

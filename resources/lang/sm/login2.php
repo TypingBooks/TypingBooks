@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Ulufale',
+  'email' => 'Imeli tuatusi',
+  'password' => 'Numera e le iloa e sesi',
+  'remember' => 'Manatua mai aʻu',
+  'forgot' => 'Galo lau upu faataga?',
+  'register2' => 'E leai sau tala? Tusi Resitala',
+  'username' => 'Igoa Igoa',
+  'confirm_password' => 'faamaonia le upu faalilolilo',
+  'register1' => 'Tusi Resitala',
+  'reset' => 'Toe setiina upu faataga',
+  'reset_link' => 'Auina atu upu faataga Reset Link',
+  'verify' => 'Faamaonia lau tuatusi imeli',
+  'verification_link' => 'O se tali fou faʻamaonia ua lafoina i lau imeli tuatusi.',
+  'before' => 'Ae e te leʻi faagasolo, faʻamolemole siaki lau imeli mo se faʻamaoniga fesoʻotaʻiga.',
+  'no_receive' => 'Afai e te leʻi mauaina le imeli',
+  'another_one' => 'kiliki iinei e talosaga seisi',
+  'confirm_password2' => 'Faʻamolemole faʻamaonia lau upu faataga aʻo le faʻaauau.',
+);

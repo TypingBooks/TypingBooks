@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Gabung',
+  'email' => 'Alamat email',
+  'password' => 'Kata sandi',
+  'remember' => 'Ingat saya',
+  'forgot' => 'Lupa kata sandi Anda?',
+  'register2' => 'Belum punya akun? Daftar',
+  'username' => 'Nama pengguna',
+  'confirm_password' => 'konfirmasi sandi',
+  'register1' => 'Daftar',
+  'reset' => 'Setel Ulang Kata Sandi',
+  'reset_link' => 'Kirim Tautan Setel Ulang Kata Sandi',
+  'verify' => 'Verifikasi alamat email Anda',
+  'verification_link' => 'Tautan verifikasi baru telah dikirim ke alamat email Anda.',
+  'before' => 'Sebelum melanjutkan, silakan periksa email Anda untuk tautan verifikasi.',
+  'no_receive' => 'Jika Anda tidak menerima email',
+  'another_one' => 'klik di sini untuk meminta yang lain',
+  'confirm_password2' => 'Harap konfirmasi kata sandi Anda sebelum melanjutkan.',
+);

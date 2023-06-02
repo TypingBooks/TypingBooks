@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Ouvri sesyon an',
+  'email' => 'Adrès lèt elektwonik',
+  'password' => 'Modpas',
+  'remember' => 'Sonje mwen',
+  'forgot' => 'Bliye Modpas ou?',
+  'register2' => 'Pa gen yon kont? Enskri',
+  'username' => 'Non itilizatè',
+  'confirm_password' => 'Konfime modpas',
+  'register1' => 'Enskri',
+  'reset' => 'Reyajiste modpas',
+  'reset_link' => 'Voye Link Reyajiste Modpas la',
+  'verify' => 'Verify adrès imel ou',
+  'verification_link' => 'Yo voye yon lyen verifikasyon fre nan adrès imèl ou.',
+  'before' => 'Anvan pwosedi a, tanpri tcheke imèl ou pou yon lyen verifikasyon.',
+  'no_receive' => 'Si ou pa te resevwa imèl la',
+  'another_one' => 'klike isit la pou mande yon lòt',
+  'confirm_password2' => 'Tanpri konfime modpas ou anvan ou kontinye.',
+);

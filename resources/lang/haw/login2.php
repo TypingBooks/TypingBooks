@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Kaukaʻi Pūnaewele',
+  'email' => 'Helu leka uila',
+  'password' => 'Hua huna',
+  'remember' => 'Hoʻomanaʻo iaʻu',
+  'forgot' => 'Ua poina i kāu ʻōlelo huna?',
+  'register2' => 'ʻAʻohe o kahi moʻo? Kākoʻo',
+  'username' => 'Kāu inoa',
+  'confirm_password' => 'Hōʻoia i ka &#39;Ōlelo Huna',
+  'register1' => 'Kākoʻo',
+  'reset' => 'Hoʻokō i ka ʻōlelo huna',
+  'reset_link' => 'Hoʻouna i ka Loulou Ho‘omau Paʻi',
+  'verify' => 'E hōʻoia i kāu leka uila',
+  'verification_link' => 'Ua hoʻouna ʻia kahi pilina hōʻoia hou i kāu leka uila.',
+  'before' => 'Ma mua o ka hoʻomau ʻana, e nānā i kāu leka uila no kahi loulou hōʻoia.',
+  'no_receive' => 'Inā ʻaʻole ʻoe e loaʻa i ka leka uila',
+  'another_one' => 'kaomi ma aneʻi e noi i kekahi',
+  'confirm_password2' => 'E hōʻoia ʻoluʻolu ma mua o ka hoʻomau ʻana.',
+);

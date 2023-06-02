@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Kirjaudu sisään',
+  'email' => 'Sähköpostiosoite',
+  'password' => 'Salasana',
+  'remember' => 'Muista minut',
+  'forgot' => 'Unohditko salasanasi?',
+  'register2' => 'Sinulla ei ole tiliä? Rekisteröidy',
+  'username' => 'Käyttäjätunnus',
+  'confirm_password' => 'Vahvista salasana',
+  'register1' => 'Rekisteröidy',
+  'reset' => 'Nollaa salasana',
+  'reset_link' => 'Lähetä salasanan palautuslinkki',
+  'verify' => 'Vahvista sähköpostiosoitteesi',
+  'verification_link' => 'Sähköpostiosoitteeseesi on lähetetty uusi varmennuslinkki.',
+  'before' => 'Ennen kuin jatkat, tarkista sähköpostistasi vahvistuslinkki.',
+  'no_receive' => 'Jos et saanut sähköpostia',
+  'another_one' => 'napsauta tätä pyytääksesi uutta',
+  'confirm_password2' => 'Vahvista salasanasi ennen jatkamista.',
+);

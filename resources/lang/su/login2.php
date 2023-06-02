@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Lebet',
+  'email' => 'Alamat email',
+  'password' => 'Kecap aksés',
+  'remember' => 'Émut abdi',
+  'forgot' => 'Hilap kecap konci anjeun?',
+  'register2' => 'Teu gaduh akun? Ngadaptar',
+  'username' => 'Username',
+  'confirm_password' => 'Pastikeun Kecap konci',
+  'register1' => 'Ngadaptar',
+  'reset' => 'Reset Kecap aksés',
+  'reset_link' => 'Kirimkeun Reset Patalina Kecap aksés',
+  'verify' => 'Pariksa Alamat Email anjeun',
+  'verification_link' => 'Link verifikasi seger parantos dikirim ka alamat email anjeun.',
+  'before' => 'Sateuacan neruskeun, mangga parios email anjeun kanggo tautan verifikasi.',
+  'no_receive' => 'Upami anjeun henteu nampi email éta',
+  'another_one' => 'klik di dieu pikeun nyuhunkeun sanés',
+  'confirm_password2' => 'Punten pastikeun kecap konci anjeun sateuacan diteruskeun.',
+);

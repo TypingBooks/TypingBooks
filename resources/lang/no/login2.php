@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Logg Inn',
+  'email' => 'Epostadresse',
+  'password' => 'Passord',
+  'remember' => 'Husk meg',
+  'forgot' => 'Glemt passordet?',
+  'register2' => 'Har du ikke en konto? Registrere',
+  'username' => 'Brukernavn',
+  'confirm_password' => 'bekreft passord',
+  'register1' => 'Registrere',
+  'reset' => 'Tilbakestille passord',
+  'reset_link' => 'Send tilbakestilling av passord',
+  'verify' => 'Bekreft e-postadressen din',
+  'verification_link' => 'En fersk bekreftelseslink er sendt til din e-postadresse.',
+  'before' => 'Før du fortsetter, kan du sjekke e-posten din for å få en bekreftelseslink.',
+  'no_receive' => 'Hvis du ikke mottok e-posten',
+  'another_one' => 'Klikk her for å be om en annen',
+  'confirm_password2' => 'Bekreft passordet ditt før du fortsetter.',
+);

@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Vpiši se',
+  'email' => 'Email naslov',
+  'password' => 'Geslo',
+  'remember' => 'Zapomni me',
+  'forgot' => 'Ste pozabili geslo?',
+  'register2' => 'Nimate računa? Registrirajte se',
+  'username' => 'Uporabniško ime',
+  'confirm_password' => 'potrdi geslo',
+  'register1' => 'Registrirajte se',
+  'reset' => 'Ponastavitev gesla',
+  'reset_link' => 'Pošlji povezavo za ponastavitev gesla',
+  'verify' => 'Preverite svoj e-poštni naslov',
+  'verification_link' => 'Na vaš e-poštni naslov je bila poslana nova povezava za preverjanje.',
+  'before' => 'Pred nadaljevanjem preverite povezavo za preverjanje v svojem e-poštnem sporočilu.',
+  'no_receive' => 'Če e-pošte niste prejeli',
+  'another_one' => 'kliknite tukaj, da zahtevate drugo',
+  'confirm_password2' => 'Pred nadaljevanjem potrdite geslo.',
+);

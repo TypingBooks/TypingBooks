@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Soo gal',
+  'email' => 'Cinwaanka emailka',
+  'password' => 'Furaha',
+  'remember' => 'Xusuusnow',
+  'forgot' => 'Ma ilowday furahaaga sirta ah?',
+  'register2' => 'Xisaab ma lihid? Diiwaangelinta',
+  'username' => 'Adeegsade',
+  'confirm_password' => 'Xaqiiji erayga sirta ah',
+  'register1' => 'Diiwaangelinta',
+  'reset' => 'Dib u dejinta erayga sirta ah',
+  'reset_link' => 'Udir Degmooyinka Soo Celinta Sirta ah',
+  'verify' => 'Xaqiiji Cinwaanka emaylkaaga',
+  'verification_link' => 'Cinwaan xaqiijin cusub ayaa loo diray cinwaanka emaylkaaga.',
+  'before' => 'Kahor intaadan bilaabin, fadlan ka eeg cinwaankaaga emaylka si aad u xaqiijiso isku xirka.',
+  'no_receive' => 'Hadaadan helin e-maylka',
+  'another_one' => 'Halkan guji si aad u codsatid mid kale',
+  'confirm_password2' => 'Fadlan xaqiiji eraygaaga sirta ah kahor intaadan sii wadin.',
+);

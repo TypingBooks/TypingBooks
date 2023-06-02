@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Đăng nhập',
+  'email' => 'Địa chỉ email',
+  'password' => 'Mật khẩu',
+  'remember' => 'Nhớ tôi',
+  'forgot' => 'Quên mật khẩu?',
+  'register2' => 'Không có tài khoản? Đăng ký',
+  'username' => 'tên tài khoản',
+  'confirm_password' => 'Xác nhận mật khẩu',
+  'register1' => 'Đăng ký',
+  'reset' => 'Đặt lại mật khẩu',
+  'reset_link' => 'Gửi liên kết đặt lại mật khẩu',
+  'verify' => 'Xác nhận địa chỉ email của bạn',
+  'verification_link' => 'Một liên kết xác minh mới đã được gửi đến địa chỉ email của bạn.',
+  'before' => 'Trước khi tiếp tục, vui lòng kiểm tra email của bạn để biết liên kết xác minh.',
+  'no_receive' => 'Nếu bạn không nhận được email',
+  'another_one' => 'nhấn vào đây để yêu cầu cái khác',
+  'confirm_password2' => 'Vui lòng xác nhận mật khẩu của bạn trước khi tiếp tục.',
+);

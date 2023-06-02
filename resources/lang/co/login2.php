@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Accedi',
+  'email' => 'Indirizzu mail',
+  'password' => 'Codice',
+  'remember' => 'Arriccorda ti di mè',
+  'forgot' => 'Dimenticatu A vostra Password?',
+  'register2' => 'Ùn avete micca un cuntu? Registrà',
+  'username' => 'Usuariu',
+  'confirm_password' => 'Cunfirmà a parolla d&#39;intesa',
+  'register1' => 'Registrà',
+  'reset' => 'Resettate Password',
+  'reset_link' => 'Invia Link di Reset di Password',
+  'verify' => 'Verificate u vostru Indirizzu E-mail',
+  'verification_link' => 'Un novu ligame di verificazione hè statu mandatu à u vostru indirizzu email.',
+  'before' => 'Prima di cuntinuà, verificate u vostru email per un ligame di verificazione.',
+  'no_receive' => 'Sì ùn avete micca ricevutu l&#39;email',
+  'another_one' => 'cliccate quì per dumandà un altru',
+  'confirm_password2' => 'Per piacè cunfirmà a vostra password prima di cuntinuà.',
+);

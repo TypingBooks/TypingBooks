@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Anmeldung',
+  'email' => 'E-Mail-Addresse',
+  'password' => 'Passwort',
+  'remember' => 'Behalte mich in Erinnerung',
+  'forgot' => 'Passwort vergessen?',
+  'register2' => 'Sie haben noch keinen Account? Registrieren',
+  'username' => 'Nutzername',
+  'confirm_password' => 'Bestätige das Passwort',
+  'register1' => 'Registrieren',
+  'reset' => 'Passwort zurücksetzen',
+  'reset_link' => 'Link zum Zurücksetzen des Passworts senden',
+  'verify' => 'Bestätige deine Email-Adresse',
+  'verification_link' => 'Ein neuer Bestätigungslink wurde an Ihre E-Mail-Adresse gesendet.',
+  'before' => 'Bevor Sie fortfahren, überprüfen Sie bitte Ihre E-Mails auf einen Bestätigungslink.',
+  'no_receive' => 'Wenn Sie die E-Mail nicht erhalten haben',
+  'another_one' => 'Klicken Sie hier, um einen anderen anzufordern',
+  'confirm_password2' => 'Bitte bestätigen Sie Ihr Passwort, bevor Sie fortfahren.',
+);

@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Wo ile',
+  'email' => 'Adirẹsi imeeli',
+  'password' => 'Ọrọ aṣina',
+  'remember' => 'Ranti mi',
+  'forgot' => 'Gbagbe oruku abawole re?',
+  'register2' => 'Ko ni akọọlẹ kan? Forukọsilẹ',
+  'username' => 'Olumulo',
+  'confirm_password' => 'So ni pato orukoabawole re',
+  'register1' => 'Forukọsilẹ',
+  'reset' => 'Tun Ọrọigbaniwọle',
+  'reset_link' => 'Fi ọna asopọ Tun Ọrọ igbaniwọle ranṣẹ',
+  'verify' => 'Daju Daju adirẹsi imeeli rẹ',
+  'verification_link' => 'A ti fi ọna asopọ imudaniloju tuntun ranṣẹ si adirẹsi imeeli rẹ.',
+  'before' => 'Ṣaaju ki o to tẹsiwaju, jọwọ ṣayẹwo imeeli rẹ fun ọna asopọ ayewo.',
+  'no_receive' => 'Ti o ko ba gba imeeli naa',
+  'another_one' => 'kiliki ibi lati beere miiran',
+  'confirm_password2' => 'Jọwọ jẹrisi ọrọ igbaniwọle rẹ ṣaaju ki o to tẹsiwaju.',
+);

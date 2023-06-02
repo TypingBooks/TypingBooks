@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Têkeftin',
+  'email' => 'Navnîşana emailê',
+  'password' => 'Şîfre',
+  'remember' => 'Min bîne bîra xwe',
+  'forgot' => 'Passwordîfreya xwe ji bîr kir?',
+  'register2' => 'Hesabek we tune? Fêhristkirin',
+  'username' => 'Nav',
+  'confirm_password' => 'di pêşîyê da em sipas dikin',
+  'register1' => 'Fêhristkirin',
+  'reset' => 'Passwordîfreyê resen bike',
+  'reset_link' => 'Passwordîfreya Reset-Passwordîfreyek bişînin',
+  'verify' => 'Navnîşana E-nameya xwe Verast bikin',
+  'verification_link' => 'Zencîreyek erêkirina nû ji navnîşana e-nameya we re hatî şandin.',
+  'before' => 'Berî ku biçin serî, ji kerema xwe e-nameya xwe ji bo girêdanek verastkirinê kontrol bikin.',
+  'no_receive' => 'Ger we e-name negirtî',
+  'another_one' => 'li vir bitikîne ku daxwazek din bike',
+  'confirm_password2' => 'Berî ku hûn berdewam bikin, ji kerema xwe şîfreya xwe piştrast bikin.',
+);

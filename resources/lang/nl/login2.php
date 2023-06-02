@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Log in',
+  'email' => 'E-mailadres',
+  'password' => 'Wachtwoord',
+  'remember' => 'Onthoud mij',
+  'forgot' => 'Uw wachtwoord vergeten?',
+  'register2' => 'Heb je geen account? Registreren',
+  'username' => 'Gebruikersnaam',
+  'confirm_password' => 'bevestig wachtwoord',
+  'register1' => 'Registreren',
+  'reset' => 'Wachtwoord opnieuw instellen',
+  'reset_link' => 'Stuur wachtwoord reset link',
+  'verify' => 'Verifieer je e-mailadres',
+  'verification_link' => 'Er is een nieuwe verificatielink naar uw e-mailadres gestuurd.',
+  'before' => 'Controleer voordat u doorgaat uw e-mail voor een verificatielink.',
+  'no_receive' => 'Als u de e-mail niet heeft ontvangen',
+  'another_one' => 'klik hier om er nog een aan te vragen',
+  'confirm_password2' => 'Bevestig uw wachtwoord voordat u doorgaat.',
+);

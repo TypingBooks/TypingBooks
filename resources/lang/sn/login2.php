@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Kupinda',
+  'email' => 'Chikero chetsamba yemumhepo',
+  'password' => 'Pasiwedhi',
+  'remember' => 'Ndirangarire',
+  'forgot' => 'Kanganwa Yako password?',
+  'register2' => 'Hauna account here? Nyoresa',
+  'username' => 'Username',
+  'confirm_password' => 'Tsigira pasiwedhi',
+  'register1' => 'Nyoresa',
+  'reset' => 'Dzorera password',
+  'reset_link' => 'Tumira password Regedzera Chikamu',
+  'verify' => 'Ratidza Yako Email Kero',
+  'verification_link' => 'Yekutsva yeongororo yekubatanidza yakatumirwa kune yako email kero.',
+  'before' => 'Usati waenderera mberi, ndapota tarisa email yako kuti uwane link yekusimbisa.',
+  'no_receive' => 'Kana iwe usina kugashira iyo email',
+  'another_one' => 'tinya apa kukumbira mumwe',
+  'confirm_password2' => 'Ndokumbira usimbise password yako usati waenderera mberi.',
+);

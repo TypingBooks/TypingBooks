@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Acceder',
+  'email' => 'Enderezo electrónico',
+  'password' => 'Contrasinal',
+  'remember' => 'Lémbrame',
+  'forgot' => 'Esqueceu o contrasinal?',
+  'register2' => 'Non tes unha conta? Rexistrarse',
+  'username' => 'Nome de usuario',
+  'confirm_password' => 'Confirme o contrasinal',
+  'register1' => 'Rexistrarse',
+  'reset' => 'Restablecer contrasinal',
+  'reset_link' => 'Enviar ligazón para restablecer contrasinal',
+  'verify' => 'Verifique o seu enderezo de correo electrónico',
+  'verification_link' => 'Envióuselle unha nova ligazón de verificación ao teu enderezo de correo electrónico.',
+  'before' => 'Antes de continuar, verifique o teu correo electrónico para ver unha ligazón de verificación.',
+  'no_receive' => 'Se non recibiches o correo electrónico',
+  'another_one' => 'fai clic aquí para solicitar outra',
+  'confirm_password2' => 'Confirma o teu contrasinal antes de continuar.',
+);

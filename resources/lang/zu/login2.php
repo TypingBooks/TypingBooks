@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Ngena ngemvume',
+  'email' => 'Ikheli le-imeyili',
+  'password' => 'Iphasiwedi',
+  'remember' => 'Ngikhumbule',
+  'forgot' => 'Ukhohlwe iphasiwedi yakho?',
+  'register2' => 'Awunayo i-akhawunti? Bhalisa',
+  'username' => 'Igama lomsebenzisi',
+  'confirm_password' => 'Qinisekisa Iphasiwedi',
+  'register1' => 'Bhalisa',
+  'reset' => 'Setha kabusha Iphasiwedi',
+  'reset_link' => 'Thumela Isixhumanisi Sokusetha Iphasiwedi',
+  'verify' => 'Qinisekisa Ikheli Lakho Le-imeyili',
+  'verification_link' => 'Isixhumanisi sokuqinisekisa esisha sithunyelwe kukheli lakho le-imeyili.',
+  'before' => 'Ngaphambi kokuqhubeka, sicela uhlole i-imeyili yakho ukuze uthole isixhumanisi sokuqinisekisa.',
+  'no_receive' => 'Uma ungazange uthole i-imeyili',
+  'another_one' => 'chofoza lapha ucele enye',
+  'confirm_password2' => 'Sicela uqinisekise iphasiwedi yakho ngaphambi kokuqhubeka.',
+);

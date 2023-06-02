@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Shiga',
+  'email' => 'Adireshin i-mel',
+  'password' => 'Kalmar sirri',
+  'remember' => 'Ku tuna da Ni',
+  'forgot' => 'Manta da kalmar shigar ki?',
+  'register2' => 'Baka da lissafi? Yi rijista',
+  'username' => 'Sunan mai amfani',
+  'confirm_password' => 'tabbata kalmar shiga',
+  'register1' => 'Yi rijista',
+  'reset' => 'Sake saita kalmar shiga',
+  'reset_link' => 'Aika hanyar Sake saita kalmar shiga',
+  'verify' => 'Tabbatar da Adireshin Imel',
+  'verification_link' => 'An aiko da sabon adireshin tabbatarwa zuwa adireshin imel.',
+  'before' => 'Kafin ci gaba, da fatan za a bincika adireshin imel ɗin don hanyar haɗi mai dacewa.',
+  'no_receive' => 'Idan baku karɓi imel ɗin ba',
+  'another_one' => 'Latsa nan don neman wani',
+  'confirm_password2' => 'Da fatan za a tabbatar da kalmar wucewa kafin a ci gaba.',
+);

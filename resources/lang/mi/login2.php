@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Takiuru',
+  'email' => 'Wāhitau Ipurangi',
+  'password' => 'Kupuhipa',
+  'remember' => 'Kia maumahara ki ahau',
+  'forgot' => 'Ka wareware i to Kupuhipa?',
+  'register2' => 'Kaore he putea? Rēhita',
+  'username' => 'Ingoa Ingoa',
+  'confirm_password' => 'Whakaū Kupuhipa',
+  'register1' => 'Rēhita',
+  'reset' => 'Tautuhi Kupuhipa',
+  'reset_link' => 'Tukuna Hono Tautuhi Kupuhipa',
+  'verify' => 'Tirohia to Wāhitau Emailmera',
+  'verification_link' => 'Kua tukuna he hononga whakamana hou ki to wahitau imeera.',
+  'before' => 'I mua i te haere tonu, tirohia to imeera mo tetahi hononga whakamana.',
+  'no_receive' => 'Mena kaore i riro mai i a koe te imeera',
+  'another_one' => 'paatohia konei ki te tono i tetahi atu',
+  'confirm_password2' => 'Whakauru koa to kupu huna i mua i te haere tonu.',
+);

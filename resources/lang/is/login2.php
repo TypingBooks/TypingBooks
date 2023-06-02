@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Skrá inn',
+  'email' => 'Netfang',
+  'password' => 'Lykilorð',
+  'remember' => 'Mundu eftir mér',
+  'forgot' => 'Gleymdirðu lykilorðinu þínu?',
+  'register2' => 'Ertu ekki með reikning? Skráðu þig',
+  'username' => 'Notandanafn',
+  'confirm_password' => 'Staðfesta lykilorð',
+  'register1' => 'Skráðu þig',
+  'reset' => 'Endur stilla lykilorð',
+  'reset_link' => 'Senda tengil til að endurstilla lykilorð',
+  'verify' => 'Staðfestu netfangið þitt',
+  'verification_link' => 'Ferskur staðfestingartengill hefur verið sendur á netfangið þitt.',
+  'before' => 'Vinsamlegast athugaðu tölvupóstinn þinn til að staðfesta tengil áður en lengra er haldið.',
+  'no_receive' => 'Ef þú fékkst ekki tölvupóstinn',
+  'another_one' => 'Smelltu hér til að biðja um annað',
+  'confirm_password2' => 'Vinsamlegast staðfestu lykilorðið þitt áður en þú heldur áfram.',
+);

@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Injira',
+  'email' => 'Aderesi ya imeri',
+  'password' => 'Ijambobanga',
+  'remember' => 'Unyibuke',
+  'forgot' => 'Wibagiwe ijambo ryibanga?',
+  'register2' => 'Ntabwo ufite konti? Iyandikishe',
+  'username' => 'Izina ryukoresha',
+  'confirm_password' => 'Emeza ijambo ryibanga',
+  'register1' => 'Iyandikishe',
+  'reset' => 'Ongera usubize ijambo ryibanga',
+  'reset_link' => 'Kohereza Ijambobanga Kugarura Ihuza',
+  'verify' => 'Kugenzura Aderesi imeri yawe',
+  'verification_link' => 'Ihuza rishya ryoherejwe kuri aderesi imeri yawe.',
+  'before' => 'Mbere yo gukomeza, nyamuneka reba imeri yawe kugirango uhuze.',
+  'no_receive' => 'Niba utakiriye imeri',
+  'another_one' => 'kanda hano usabe undi',
+  'confirm_password2' => 'Nyamuneka wemeze ijambo ryibanga mbere yo gukomeza.',
+);

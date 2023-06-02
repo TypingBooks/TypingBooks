@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Log masuk',
+  'email' => 'Alamat emel',
+  'password' => 'Kata Laluan',
+  'remember' => 'Ingatlah Aku',
+  'forgot' => 'Lupa Kata Laluan Anda?',
+  'register2' => 'Tidak mempunyai akaun? Daftar',
+  'username' => 'Nama pengguna',
+  'confirm_password' => 'Sahkan Kata Laluan',
+  'register1' => 'Daftar',
+  'reset' => 'Menetapkan semula kata laluan',
+  'reset_link' => 'Hantar Pautan Tetapkan Semula Kata Laluan',
+  'verify' => 'Mengesahkan alamat e-mel anda',
+  'verification_link' => 'Pautan pengesahan baru telah dihantar ke alamat e-mel anda.',
+  'before' => 'Sebelum meneruskan, sila periksa e-mel anda untuk mendapatkan pautan pengesahan.',
+  'no_receive' => 'Sekiranya anda tidak menerima e-mel',
+  'another_one' => 'klik di sini untuk meminta yang lain',
+  'confirm_password2' => 'Sila sahkan kata laluan anda sebelum meneruskan.',
+);

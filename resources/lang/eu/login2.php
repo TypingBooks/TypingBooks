@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Saioa hasi',
+  'email' => 'Posta elektroniko helbidea',
+  'password' => 'Pasahitza',
+  'remember' => 'Gogora nazazu',
+  'forgot' => 'Zure pasahitza ahaztu duzu?',
+  'register2' => 'Ez daukazu konturik? Eman izena',
+  'username' => 'Erabiltzaile izena',
+  'confirm_password' => 'pasahitza baieztatu',
+  'register1' => 'Eman izena',
+  'reset' => 'Pasahitza berrezarri',
+  'reset_link' => 'Bidali Pasahitza Berrezarri Esteka',
+  'verify' => 'Egiaztatu zure helbide elektronikoa',
+  'verification_link' => 'Egiaztapen esteka berria bidali da zure helbide elektronikora.',
+  'before' => 'Jarraitu aurretik, egiaztatu zure helbide elektronikoa egiaztapen esteka lortzeko.',
+  'no_receive' => 'Posta elektronikoa jaso ez bazenu',
+  'another_one' => 'egin klik hemen beste bat eskatzeko',
+  'confirm_password2' => 'Mesedez, berretsi pasahitza jarraitu aurretik.',
+);

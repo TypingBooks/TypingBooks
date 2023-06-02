@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Log på',
+  'email' => 'Email adresse',
+  'password' => 'Adgangskode',
+  'remember' => 'Husk mig',
+  'forgot' => 'Glemt din adgangskode?',
+  'register2' => 'Har du ikke en konto? Tilmeld',
+  'username' => 'Brugernavn',
+  'confirm_password' => 'Bekræft kodeord',
+  'register1' => 'Tilmeld',
+  'reset' => 'Nulstille kodeord',
+  'reset_link' => 'Send link til nulstilling af adgangskode',
+  'verify' => 'Bekræft din e-mail-adresse',
+  'verification_link' => 'Et nyt bekræftelseslink er sendt til din e-mail-adresse.',
+  'before' => 'Før du fortsætter, skal du kontrollere din e-mail for at få et bekræftelseslink.',
+  'no_receive' => 'Hvis du ikke modtog e-mailen',
+  'another_one' => 'Klik her for at anmode om en anden',
+  'confirm_password2' => 'Bekræft dit kodeord, før du fortsætter.',
+);

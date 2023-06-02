@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Mag log in',
+  'email' => 'Address ng E-Mail',
+  'password' => 'Password',
+  'remember' => 'Tandaan mo ako',
+  'forgot' => 'Nakalimutan ang Iyong Password?',
+  'register2' => 'Wala kang account? Magrehistro',
+  'username' => 'Username',
+  'confirm_password' => 'Kumpirmahin ang Password',
+  'register1' => 'Magrehistro',
+  'reset' => 'I-reset ang Password',
+  'reset_link' => 'Magpadala ng I-reset ang Link ng Password',
+  'verify' => 'I-verify ang iyong email address',
+  'verification_link' => 'Ang isang sariwang link sa pag-verify ay ipinadala sa iyong email address.',
+  'before' => 'Bago magpatuloy, mangyaring suriin ang iyong email para sa isang link sa pag-verify.',
+  'no_receive' => 'Kung hindi mo natanggap ang email',
+  'another_one' => 'mag-click dito upang humiling ng isa pa',
+  'confirm_password2' => 'Mangyaring kumpirmahin ang iyong password bago magpatuloy.',
+);

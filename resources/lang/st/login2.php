@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Kena',
+  'email' => 'Aterese ea imeile',
+  'password' => 'Senotlolo',
+  'remember' => 'Nkhopole',
+  'forgot' => 'U lebetse senotlolo sa hau?',
+  'register2' => 'Ha u na ak&#39;haonte? Ngolisa',
+  'username' => 'Username',
+  'confirm_password' => 'Netefatsa Phasewete',
+  'register1' => 'Ngolisa',
+  'reset' => 'Seta password',
+  'reset_link' => 'Romella phasewete ea Reset phase',
+  'verify' => 'Netefatsa Aterese ea Hao ea Imeile',
+  'verification_link' => 'Khokahano e ncha ea netefatso e rometsoe atereseng ea hau ea lengolo tsoibila.',
+  'before' => 'Pele o tsoela pele, ka kopo sheba lengolo-tsoibila la hau bakeng sa khokahano ea netefatso.',
+  'no_receive' => 'Haeba u sa amohela lengolo-tsoibila',
+  'another_one' => 'tlanya mona ho kopa e &#39;ngoe',
+  'confirm_password2' => 'Ka kopo netefatsa phasewete ea hau pele u tsoela pele.',
+);

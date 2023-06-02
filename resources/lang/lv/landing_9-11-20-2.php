@@ -1,0 +1,5 @@
+<?php 
+return array (
+  'books_that_you_have_added' => 'Jūsu pievienotās grāmatas',
+  'books_that_you_have_added_that_do_not_yet_have_translations' => 'Jūsu pievienotās grāmatas, kurām vēl nav tulkojumu',
+);

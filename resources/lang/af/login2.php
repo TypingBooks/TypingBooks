@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Teken aan',
+  'email' => 'E-pos adres',
+  'password' => 'wagwoord',
+  'remember' => 'Onthou my',
+  'forgot' => 'Het jy jou wagwoord vergeet?',
+  'register2' => 'Het u nie &#39;n rekening nie? registreer',
+  'username' => 'Gebruikersnaam',
+  'confirm_password' => 'Bevestig Wagwoord',
+  'register1' => 'registreer',
+  'reset' => 'Herstel wagwoord',
+  'reset_link' => 'Stuur skakel om wagwoord te herstel',
+  'verify' => 'Bevestig jou e-pos adres',
+  'verification_link' => '&#39;N Nuwe verifikasie-skakel is na u e-posadres gestuur.',
+  'before' => 'Voordat u verder gaan, gaan u e-pos na vir &#39;n verifiëringskakel.',
+  'no_receive' => 'As u nie die e-pos ontvang het nie',
+  'another_one' => 'Klik hier om nog een aan te vra',
+  'confirm_password2' => 'Bevestig u wagwoord voordat u verder gaan.',
+);

@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Kirish',
+  'email' => 'Elektron pochta manzili',
+  'password' => 'Parol',
+  'remember' => 'Meni eslaysizmi',
+  'forgot' => 'Parolni unutdingizmi?',
+  'register2' => 'Hisobingiz yo&#39;qmi? Ro&#39;yxatdan o&#39;ting',
+  'username' => 'Foydalanuvchi ismi',
+  'confirm_password' => 'Parolni tasdiqlang',
+  'register1' => 'Ro&#39;yxatdan o&#39;ting',
+  'reset' => 'Parolni tiklash',
+  'reset_link' => 'Parolni tiklash havolasini yuboring',
+  'verify' => 'Elektron pochta manzilingizni tasdiqlang',
+  'verification_link' => 'Sizning e-pochta manzilingizga yangi tasdiqlash havolasi yuborildi.',
+  'before' => 'Davom etishdan oldin, tasdiq havolasini olish uchun elektron pochtangizni tekshiring.',
+  'no_receive' => 'Agar siz elektron pochta xabarini olmagan bo&#39;lsangiz',
+  'another_one' => 'boshqasini so&#39;rash uchun shu erni bosing',
+  'confirm_password2' => 'Davom etishdan oldin parolingizni tasdiqlang.',
+);

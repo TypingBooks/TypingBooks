@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Banye',
+  'email' => 'Adreesị ozi ịntanetị',
+  'password' => 'Okwuntughe',
+  'remember' => 'Cheta m',
+  'forgot' => 'Chefuru okwuntughe gị?',
+  'register2' => 'Enweghị akaụntụ? Deba aha',
+  'username' => 'Aha njirimara',
+  'confirm_password' => 'Kwenye Na Okwuntughe',
+  'register1' => 'Deba aha',
+  'reset' => 'Tinyegharịa okwuntughe',
+  'reset_link' => 'Ziga njikọ Njikọ Paswọdu',
+  'verify' => 'Nyochaa Adreesị Email Gị',
+  'verification_link' => 'E zigara njikọ nkwenye ọhụrụ na adreesị email gị.',
+  'before' => 'Tupu ịmalite, biko lelee email gị maka njikọ nkwenye.',
+  'no_receive' => 'Ọ bụrụ na ịnataghị email ahụ',
+  'another_one' => 'pịa ebe a ka juo onye ozo',
+  'confirm_password2' => 'Biko gosipụta paswọọdụ gị tupu ịga n&#39;ihu.',
+);

@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Prisijungti',
+  'email' => 'Elektroninio pašto adresas',
+  'password' => 'Slaptažodis',
+  'remember' => 'Prisimink mane',
+  'forgot' => 'Pamiršai slaptažodį?',
+  'register2' => 'Neturite sąskaitos? Registruotis',
+  'username' => 'Vartotojo vardas',
+  'confirm_password' => 'Patvirtinti slaptažodį',
+  'register1' => 'Registruotis',
+  'reset' => 'Atstatyti slaptažodį',
+  'reset_link' => 'Siųsti slaptažodžio nustatymo nuorodą',
+  'verify' => 'Patvirtinkite savo elektroninį paštą',
+  'verification_link' => 'Jūsų el. Pašto adresu išsiųsta nauja patvirtinimo nuoroda.',
+  'before' => 'Prieš tęsdami, patikrinkite savo el. Pašto adresą, ar nėra patvirtinimo nuorodos.',
+  'no_receive' => 'Jei negavote el',
+  'another_one' => 'spustelėkite čia norėdami paprašyti kito',
+  'confirm_password2' => 'Prieš tęsdami, patvirtinkite slaptažodį.',
+);

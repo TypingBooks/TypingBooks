@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Giriş',
+  'email' => 'Email adres',
+  'password' => 'Parol',
+  'remember' => 'Meni ýatla',
+  'forgot' => 'Parolyňyzy ýatdan çykardyňyzmy?',
+  'register2' => 'Hasabyňyz ýokmy? Hasaba al',
+  'username' => 'Ulanyjy ady',
+  'confirm_password' => 'Paroly tassykla',
+  'register1' => 'Hasaba al',
+  'reset' => 'Paroly täzeden düzmek',
+  'reset_link' => 'Paroly täzeden düzmek baglanyşygyny iber',
+  'verify' => 'E-poçta salgyňyzy barlaň',
+  'verification_link' => 'E-poçta salgyňyza täze tassyklama baglanyşygy iberildi.',
+  'before' => 'Dowam etmezden ozal tassyklama baglanyşygy üçin e-poçtaňyzy barlaň.',
+  'no_receive' => 'E-poçta almadyk bolsaňyz',
+  'another_one' => 'başga birini soramak üçin şu ýere basyň',
+  'confirm_password2' => 'Dowam etmezden ozal parolyňyzy tassyklaň.',
+);

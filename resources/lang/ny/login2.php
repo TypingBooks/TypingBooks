@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Lowani muakaunti',
+  'email' => 'Imelo adilesi',
+  'password' => 'Achinsinsi',
+  'remember' => 'Ndikumbukireni',
+  'forgot' => 'Mwayiwala mawu anu achinsinsi?',
+  'register2' => 'Mulibe akaunti? Kulembetsa',
+  'username' => 'Zogwiritsa ntchito',
+  'confirm_password' => 'Tsimikizani Mawu Achinsinsi',
+  'register1' => 'Kulembetsa',
+  'reset' => 'Sungani Chinsinsi',
+  'reset_link' => 'Tumizani Chinsinsi Chobwezeretsanso Chinsinsi',
+  'verify' => 'Tsimikizani Imelo Adilesi Yanu',
+  'verification_link' => 'Ulalo wotsimikizira watsopano watumizidwa ku imelo adilesi yanu.',
+  'before' => 'Musanapitilize, chonde onani imelo yanu kuti mupeze ulalo wotsimikizira.',
+  'no_receive' => 'Ngati simunalandire imelo',
+  'another_one' => 'dinani apa kuti mufunse ina',
+  'confirm_password2' => 'Chonde tsimikizirani mawu anu achinsinsi musanapitilize.',
+);

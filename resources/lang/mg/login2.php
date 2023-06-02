@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Hiditra',
+  'email' => 'Adiresy mailaka',
+  'password' => 'Password',
+  'remember' => 'Tsarovy aho',
+  'forgot' => 'Hadinonao ny tenimiafinao?',
+  'register2' => 'Tsy manana kaonty? Register',
+  'username' => 'Anaran&#39;ny mpampiasa',
+  'confirm_password' => 'Hamafiso ny tenimiafina',
+  'register1' => 'Register',
+  'reset' => 'Reset ny tenimiafina',
+  'reset_link' => 'Alefaso ny famerenanao ny tenimiafina',
+  'verify' => 'Hamarino ny adiresy mailakao',
+  'verification_link' => 'Rohy fanamarinana vaovao no nalefa any amin&#39;ny adiresy mailaka anao.',
+  'before' => 'Alohan&#39;ny hanohizanao, azafady mba jereo ny mailaka misy rohy fanamarinana anao.',
+  'no_receive' => 'Raha tsy nahazo ny mailaka ianao',
+  'another_one' => 'tsindrio eto raha hangataka iray hafa',
+  'confirm_password2' => 'Azafady hamafiso ny tenimiafina alohan&#39;ny hanohizanao.',
+);

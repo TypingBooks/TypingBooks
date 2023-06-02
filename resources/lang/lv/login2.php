@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Pieslēgties',
+  'email' => 'Epasta adrese',
+  'password' => 'Parole',
+  'remember' => 'Atceries mani',
+  'forgot' => 'Aizmirsi savu paroli?',
+  'register2' => 'Vai jums nav konta? Reģistrēties',
+  'username' => 'Lietotājvārds',
+  'confirm_password' => 'apstipriniet paroli',
+  'register1' => 'Reģistrēties',
+  'reset' => 'Atiestatīt paroli',
+  'reset_link' => 'Nosūtīt paroles atiestatīšanas saiti',
+  'verify' => 'Pārbaudiet savu e-pasta adresi',
+  'verification_link' => 'Uz jūsu e-pasta adresi ir nosūtīta jauna verifikācijas saite.',
+  'before' => 'Pirms turpināt, lūdzu, pārbaudiet savā e-pastā verifikācijas saiti.',
+  'no_receive' => 'Ja nesaņēmāt e-pastu',
+  'another_one' => 'noklikšķiniet šeit, lai pieprasītu citu',
+  'confirm_password2' => 'Pirms turpināt, lūdzu, apstipriniet savu paroli.',
+);

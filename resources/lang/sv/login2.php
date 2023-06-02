@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Logga in',
+  'email' => 'E-postadress',
+  'password' => 'Lösenord',
+  'remember' => 'Kom ihåg mig',
+  'forgot' => 'Glömt ditt lösenord?',
+  'register2' => 'Har du inte ett konto? Registrera',
+  'username' => 'Användarnamn',
+  'confirm_password' => 'Bekräfta lösenord',
+  'register1' => 'Registrera',
+  'reset' => 'Återställ lösenord',
+  'reset_link' => 'Skicka länk till återställning av lösenord',
+  'verify' => 'Verifiera din e-postadress',
+  'verification_link' => 'En ny verifieringslänk har skickats till din e-postadress.',
+  'before' => 'Innan du fortsätter, kontrollera din e-postadress för en verifieringslänk.',
+  'no_receive' => 'Om du inte fick e-postmeddelandet',
+  'another_one' => 'Klicka här för att begära en annan',
+  'confirm_password2' => 'Bekräfta ditt lösenord innan du fortsätter.',
+);

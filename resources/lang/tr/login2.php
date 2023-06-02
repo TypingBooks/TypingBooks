@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'login' => 'Oturum aç',
+  'email' => 'E',
+  'password' => 'Parola',
+  'remember' => 'Beni hatırla',
+  'forgot' => 'Parolanızı mı unuttunuz?',
+  'register2' => 'Hesabınız yok mu? Kayıt ol',
+  'username' => 'Kullanıcı adı',
+  'confirm_password' => 'Şifreyi Onayla',
+  'register1' => 'Kayıt ol',
+  'reset' => 'Şifreyi yenile',
+  'reset_link' => 'Şifre Gönderme Bağlantısı',
+  'verify' => 'Eposta adresinizi doğrulayın',
+  'verification_link' => 'E-posta adresinize yeni bir doğrulama bağlantısı gönderildi.',
+  'before' => 'Devam etmeden önce lütfen bir doğrulama bağlantısı için e-postanızı kontrol edin.',
+  'no_receive' => 'E-postayı almadıysanız',
+  'another_one' => 'başka bir tane talep etmek için buraya tıklayın',
+  'confirm_password2' => 'Lütfen devam etmeden önce şifrenizi onaylayın.',
+);
