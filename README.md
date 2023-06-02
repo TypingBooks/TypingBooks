@@ -2,7 +2,7 @@
 
 I've made the decision to stop hosting services.
 
-This is intended as a developer release, and I will not be including a guide for setup. If you are a developer, this project used Laravel, and their resources are likely the best starting place for testing this project. While creating it, I mainly used Homestead with Vagrant and not Docker. I will not be accepting pull requests or managing issues in this repository. 
+This is intended as a developer release, and I will not be including a guide for setup. If you are a developer, this project was developed with Laravel, and their resources are likely the best starting place for testing this project. While creating it, I mainly used Homestead with Vagrant and not Docker. I will not be accepting pull requests or managing issues in this repository. 
 
 # Typing practice with books. 
 
