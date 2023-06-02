@@ -8,9 +8,9 @@ This is intended as a developer release, and I will not be including a guide for
 
 This introduction is copy/pasted from the old website that can be viewed at the [archive.org page here](https://web.archive.org/web/20210225081454/https://btype.io/).
 
-![1a](https://github.com/TypingBooks/TypingBooks/assets/135349756/a02c0643-9676-4c3a-9e0f-9451395f1cc4)
+![1a](https://github.com/TypingBooks/TypingBooks/assets/135349756/5348f039-800f-47c6-9c8c-e270a9b7e780)
 
-![2a](https://github.com/TypingBooks/TypingBooks/assets/135349756/b6e3d622-9447-462b-8282-8c2c9c18b53a)
+![2a](https://github.com/TypingBooks/TypingBooks/assets/135349756/5943bfd9-dcd8-4b38-a9c9-5837cbd4d635)
 
 # License
 
