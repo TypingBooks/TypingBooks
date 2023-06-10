@@ -9,8 +9,8 @@ There is a Virtual Box .ova dump in this repository that should make it easy to 
 # Testing with the Virtual Box dump
 
 1. Install [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
-2. Extract .ova file in the [vbox_dump](/vbox_dump) folder
-3. Import into Virtual Box using the default
+2. Extract the .ova file in the [vbox_dump](/vbox_dump) folder
+3. Import into Virtual Box
 
 ![1](https://github.com/TypingBooks/TypingBooks/assets/135349756/a5233c7b-c1f4-43e5-9019-f0b28427d7fb)
 
